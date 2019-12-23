@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGL2", "OpenGL2\OpenGL2.vcxproj", "{DC7E04D4-622B-4B15-95F6-B0EBEF5CDCBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC7E04D4-622B-4B15-95F6-B0EBEF5CDCBC}.Debug|x64.ActiveCfg = Debug|x64
+		{DC7E04D4-622B-4B15-95F6-B0EBEF5CDCBC}.Debug|x64.Build.0 = Debug|x64
+		{DC7E04D4-622B-4B15-95F6-B0EBEF5CDCBC}.Debug|x86.ActiveCfg = Debug|Win32
+		{DC7E04D4-622B-4B15-95F6-B0EBEF5CDCBC}.Debug|x86.Build.0 = Debug|Win32
+		{DC7E04D4-622B-4B15-95F6-B0EBEF5CDCBC}.Release|x64.ActiveCfg = Release|x64
+		{DC7E04D4-622B-4B15-95F6-B0EBEF5CDCBC}.Release|x64.Build.0 = Release|x64
+		{DC7E04D4-622B-4B15-95F6-B0EBEF5CDCBC}.Release|x86.ActiveCfg = Release|Win32
+		{DC7E04D4-622B-4B15-95F6-B0EBEF5CDCBC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E383F07-2427-456E-9251-8CD454EA1119}
+	EndGlobalSection
+EndGlobal
